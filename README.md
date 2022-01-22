@@ -12,5 +12,6 @@ This is a GitHub repository that dives into the various operating system concept
 * Signal.
 * Semaphores.
 * POSIX Threads.
+* Inter-process Communication.
 
 **Will be updated regularly :)**
